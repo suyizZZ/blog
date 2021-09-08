@@ -3,7 +3,7 @@ export default {
   srcDir: 'src',
   theme: 'blog',
   plugins: ['blog'],
-  root: '/blog/',
+  // root: '/blog/',
   nav: [
     {
       text: '首页',
